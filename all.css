@@ -1,0 +1,27 @@
+.bgc-darkBlue {
+    background-color: #0a4a6e;
+    
+}
+.color-darkBlue {
+    color:#0a4a6e;
+}
+.color-white {
+    color:#fff;
+}
+
+.navbar-brand, .nav-link, .refer-list,.icon-link {
+    color:white!important;
+    text-decoration: none;
+}
+
+.nav-link:hover, .icon-link:hover {
+    color:rgb(209, 206, 206)!important;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+
+}
